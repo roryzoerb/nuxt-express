@@ -1,0 +1,33 @@
+C:\Users\roryz\app\roryzoerb\nuxt-express\nuxt-express-01
+├── /assets
+|  ├── /css
+|  |  └── main.css
+|  └── /img
+|     └── logo.png
+├── backpack.config.js
+├── /build
+|  ├── main.js
+|  └── main.map
+├── /components
+|  └── Footer.vue
+├── /layouts
+|  ├── default.vue
+|  └── error.vue
+├── nuxt.config.js
+├── package.json
+├── /pages
+|  ├── index.vue
+|  └── _id.vue
+├── /plugins
+|  └── axios.js
+├── README.md
+├── /server
+|  ├── /api
+|  |  ├── index.js
+|  |  └── users.js
+|  └── index.js
+├── /static
+|  └── favicon.ico
+└── yarn.lock
+
+directory: 2158 file: 13508 
